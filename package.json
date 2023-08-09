@@ -1,0 +1,16 @@
+{
+	"name": "typescript-practice",
+	"version": "1.0.0",
+	"description": "echo \"# TypeScript-Practice\" >> README.md\r git init\r git add README.md\r git commit -m \"first commit\"\r git branch -M main\r git remote add origin https://github.com/Butcherok/TypeScript-Practice.git\r git push -u origin main",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "web-dev-server --node-resolve --open --watch"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@web/dev-server": "^0.3.0"
+	}
+}
